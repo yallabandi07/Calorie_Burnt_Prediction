@@ -1,5 +1,3 @@
-# Calorie_Burnt_Prediction
-
 # Calories Burned Prediction using Machine Learning (Regression Use Case)
 
 ## 📋 Project Overview
