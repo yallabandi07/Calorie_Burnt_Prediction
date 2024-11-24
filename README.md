@@ -1,4 +1,4 @@
-# Calories Burned Prediction using Machine Learning (Regression Use Case)
+# Calories Burned Prediction using Machine Learning
 
 ## 📋 Project Overview
 Calorie burn prediction is a critical aspect of fitness tracking, enabling individuals to understand their energy expenditure during exercise more effectively. This project implements a regression-based approach to estimate calories burned based on user-provided input data. It serves as a valuable tool for personal health monitoring and fitness tracking.
